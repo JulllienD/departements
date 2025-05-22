@@ -25,3 +25,10 @@
 2025-05-21 : 44 - Loire-Atlantique
 2025-05-21 : 39 - Jura
 2025-05-21 : 18 - Cher
+
+2025-05-22 : 2B - Haute-Corse
+2025-05-22 : 30 - Gard
+2025-05-22 : 56 - Morbihan
+2025-05-22 : 75 - Paris
+2025-05-22 : 90 - Territoire-de-Belfort
+2025-05-22 : 43 - Haute-Loire

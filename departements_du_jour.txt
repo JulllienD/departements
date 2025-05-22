@@ -27,3 +27,4 @@
 2025-05-19 : 93 - Seine-Saint-Denis
 2025-05-20 : 73 - Savoie
 2025-05-21 : 03 - Allier
+2025-05-22 : 45 - Loiret
