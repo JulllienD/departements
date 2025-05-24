@@ -32,3 +32,10 @@
 2025-05-22 : 75 - Paris
 2025-05-22 : 90 - Territoire-de-Belfort
 2025-05-22 : 43 - Haute-Loire
+
+2025-05-23 : 38 - Isère
+2025-05-23 : 31 - Haute-Garonne
+2025-05-23 : 25 - Doubs
+2025-05-23 : 45 - Loiret
+2025-05-23 : 60 - Oise
+2025-05-23 : 54 - Meurthe-et-Moselle
