@@ -39,3 +39,11 @@
 2025-05-23 : 45 - Loiret
 2025-05-23 : 60 - Oise
 2025-05-23 : 54 - Meurthe-et-Moselle
+
+2025-05-24 : 48 - Lozère
+2025-05-24 : 34 - Hérault
+2025-05-24 : 28 - Eure-et-Loir
+2025-05-24 : 47 - Lot-et-Garonne
+2025-05-24 : 51 - Marne
+2025-05-24 : 94 - Val-de-Marne
+
