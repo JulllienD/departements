@@ -67,3 +67,10 @@
 2025-05-27 : 69 - Rhône
 2025-05-27 : 86 - Vienne
 2025-05-27 : 2A - Corse-du-Sud
+
+2025-05-28 : 76 - Seine-Maritime
+2025-05-28 : 87 - Haute-Vienne
+2025-05-28 : 72 - Sarthe
+2025-05-28 : 971 - Guadeloupe
+2025-05-28 : 15 - Cantal
+2025-05-28 : 04 - Alpes-de-Haute-Provence
