@@ -74,3 +74,10 @@
 2025-05-28 : 971 - Guadeloupe
 2025-05-28 : 15 - Cantal
 2025-05-28 : 04 - Alpes-de-Haute-Provence
+
+2025-05-29 : 81 - Tarn
+2025-05-29 : 07 - Ardèche
+2025-05-29 : 80 - Somme
+2025-05-29 : 35 - Ille-et-Vilaine
+2025-05-29 : 70 - Haute-Saône
+2025-05-29 : 06 - Alpes-Maritimes
