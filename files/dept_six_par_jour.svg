@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>1 département par jour</title>
-  <link rel="stylesheet" href="files/styles/style.css">
-</head>
-<body>
-
-  <header class="top-bar">
-    <a href="index.html" class="nav-icon">
-      <img src="files/images/home.png" alt="Accueil">
-    </a>
-
-    <h1 class="page-title">6 départements par jour</h1>
-
-    <a href="#" class="nav-icon">
-      <img src="files/images/home.png" alt="Menu">
-    </a>
-  </header>
-
-<div class="carte">
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="1898" viewBox="0 0 2000 1898" version="1.1" id="svg913" ns1:docname="France_départementale.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <ns1:namedview id="namedview913" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:zoom="0.14585474" ns2:cx="644.47681" ns2:cy="1203.2519" ns2:window-width="1920" ns2:window-height="1001" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="n976_Mayotte" />
@@ -1591,8 +1568,3 @@
   </g>
   <rect id="Cadre" fill="none" stroke="#000" stroke-width="2" x="1" y="1" width="1998" height="1896" style="stroke-linejoin:round;stroke-linecap:round" />
 </svg>
-
-</div>
-
-</body>
-</html>

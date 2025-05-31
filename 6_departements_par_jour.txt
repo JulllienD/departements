@@ -81,3 +81,10 @@
 2025-05-29 : 35 - Ille-et-Vilaine
 2025-05-29 : 70 - Haute-Saône
 2025-05-29 : 06 - Alpes-Maritimes
+
+2025-05-30 : 24 - Dordogne
+2025-05-30 : 64 - Pyrénées-Atlantiques
+2025-05-30 : 61 - Orne
+2025-05-30 : 37 - Indre-et-Loire
+2025-05-30 : 50 - Manche
+2025-05-30 : 09 - Ariège
