@@ -38,10 +38,10 @@ body::before {
 /* Titre centré */
 .page-title {
   font-size: 2rem;
-  font-weight: bold;
+  margin: 0px 30px;
+  font-family: 'Poetsen One', sans-serif;
   text-align: center;
   flex: 1;
-  margin: 0;
 }
 
 /* Permet de centrer le titre malgré la présence des icônes */
@@ -77,11 +77,6 @@ h1 {
   font-family: 'Poetsen One', sans-serif;
   text-align: center;
   margin-bottom: 2rem;
-}
-
-h2 {
-  font-family: 'Poetsen One', sans-serif;
-  text-align: center;
 }
 
 .buttons {
@@ -126,7 +121,7 @@ a img {
 /* Version mobile */
 @media (max-width: 600px) {
   h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     line-height: 1.4;
   }
 
@@ -136,8 +131,7 @@ a img {
     gap: 1rem;
   }
 
-  a {
-    width: 80%;
+  .buttons a {
     justify-content: flex-start;
   }
 }
