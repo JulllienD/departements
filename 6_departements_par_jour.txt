@@ -88,3 +88,10 @@
 2025-05-30 : 37 - Indre-et-Loire
 2025-05-30 : 50 - Manche
 2025-05-30 : 09 - Ariège
+
+2025-05-31 : 22 - Côtes-d'Armor
+2025-05-31 : 52 - Haute-Marne
+2025-05-31 : 972 - Martinique
+2025-05-31 : 46 - Lot
+2025-05-31 : 73 - Savoie
+2025-05-31 : 62 - Pas-de-Calais
