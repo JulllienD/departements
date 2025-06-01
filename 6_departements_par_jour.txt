@@ -95,3 +95,10 @@
 2025-05-31 : 46 - Lot
 2025-05-31 : 73 - Savoie
 2025-05-31 : 62 - Pas-de-Calais
+
+2025-06-01 : 77 - Seine-et-Marne
+2025-06-01 : 23 - Creuse
+2025-06-01 : 04 - Alpes-de-Haute-Provence
+2025-06-01 : 83 - Var
+2025-06-01 : 67 - Bas-Rhin
+2025-06-01 : 53 - Mayenne
