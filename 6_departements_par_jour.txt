@@ -102,3 +102,17 @@
 2025-06-01 : 83 - Var
 2025-06-01 : 67 - Bas-Rhin
 2025-06-01 : 53 - Mayenne
+
+2025-06-02 : 36 - Indre
+2025-06-02 : 88 - Vosges
+2025-06-02 : 05 - Hautes-Alpes
+2025-06-02 : 78 - Yvelines
+2025-06-02 : 974 - La Réunion
+2025-06-02 : 82 - Tarn-et-Garonne
+
+2025-06-03 : 65 - Hautes-Pyrénées
+2025-06-03 : 93 - Seine-Saint-Denis
+2025-06-03 : 57 - Moselle
+2025-06-03 : 02 - Aisne
+2025-06-03 : 19 - Corrèze
+2025-06-03 : 42 - Loire
