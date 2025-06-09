@@ -136,6 +136,23 @@ a img {
   }
 }
 
+.titre-departement {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 2rem 1rem 2rem;
+  font-size: 2rem;
+  font-family: 'Poetsen One', sans-serif;
+}
+
+.date-dept {
+  font-weight: bold;
+}
+
+.numero-progression {
+  font-weight: bold;
+}
+
 .carte {
   display: flex;
   align-items: center;
@@ -144,7 +161,9 @@ a img {
 
 svg {
   display: block;
-  padding: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
   height: auto;       /* conserve les proportions */
   max-width: 100vw;    /* évite tout dépassement */
   margin: 0 auto;     /* centré horizontalement */
