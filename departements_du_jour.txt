@@ -55,7 +55,11 @@
 2025-06-13 : 64 - Pyrénées-Atlantiques
 
 2025-06-14 : 42 - Loire
+<<<<<<< HEAD
 2025-06-15 : 2B - Haute-Corse
 2025-06-16 : 04 - Alpes-de-Haute-Provence
 2025-06-17 : 61 - Orne
 2025-06-18 : 62 - Pas-de-Calais
+=======
+2025-06-15 : 2B - Haute-Corse
+>>>>>>> 40518f3b26804a32743bf4c8c7598dae195ca73d
