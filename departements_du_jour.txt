@@ -56,3 +56,6 @@
 
 2025-06-14 : 42 - Loire
 2025-06-15 : 2B - Haute-Corse
+2025-06-16 : 04 - Alpes-de-Haute-Provence
+2025-06-17 : 61 - Orne
+2025-06-18 : 62 - Pas-de-Calais
