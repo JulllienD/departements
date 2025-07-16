@@ -80,3 +80,14 @@
 2025-07-05 : 94 - Val-de-Marne
 
 2025-07-06 : 2A - Corse-du-Sud
+2025-07-07 : 36 - Indre
+2025-07-08 : 17 - Charente-Maritime
+2025-07-09 : 31 - Haute-Garonne
+2025-07-10 : 11 - Aude
+2025-07-11 : 69 - Rhône
+2025-07-12 : 06 - Alpes-Maritimes
+
+2025-07-13 : 30 - Gard
+2025-07-14 : 80 - Somme
+2025-07-15 : 60 - Oise
+2025-07-16 : 70 - Haute-Saône
